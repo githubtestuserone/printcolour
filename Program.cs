@@ -14,3 +14,9 @@ Console.ForegroundColor = ConsoleColor.Red;
 Console.WriteLine("I'm gonna print in Red");
 Console.ResetColor();
 
+/* Magenta print text */
+Console.ForegroundColor = ConsoleColor.Magenta;
+Console.WriteLine("I'm gonna print in Magenta");
+Console.ResetColor();
+
+
